@@ -13,3 +13,9 @@ def numbers():
         ff.write(f.read())
   return
 ```
+
+### HERE IS A TODO LIST:
+
+- [x] Write the todo list
+- [ ] Complete all items on the todo list
+- [x] Complete 1 item on the todo list
